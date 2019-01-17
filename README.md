@@ -110,3 +110,5 @@ Browse through the Rails Guides below:
 - [Rails Guides](http://guides.rubyonrails.org/) - [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-blog-scaffold' title='Rails Blog'>Rails Blog</a> on Learn.co and start learning to code for free.</p>
+
+rails g scaffold Post title:string description:text --no-test-framework
